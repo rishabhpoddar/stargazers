@@ -1,0 +1,1 @@
+export GOPATH=/Users/rishabhpoddar/Desktop/supertokens/stargazers/cmd && export GOBIN=$GOPATH/bin && go get .
